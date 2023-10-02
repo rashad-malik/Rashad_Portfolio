@@ -1,5 +1,5 @@
 ## Dataquest guided projects
-Dataquest's guided projects are an interactive component of their online learning platform. These projects offer a hands-on, real-world experience that complements the theoretical knowledge gained on the course. This involves work with real datasets, writing code, and solving data-related problems.
+Dataquest's guided projects are an interactive component of their online learning platform. These projects offer a hands-on, real-world experience that complements the theoretical knowledge gained on the course. This involves work with real datasets, writing code, and solving data-related problems. **Click the headings to view the Jupyter notebook file**.
 
 ### [Project 1 - Prison Break](https://github.com/rashad-malik/Dataquest-Projects/tree/main/Project%201:%20Prison%20Break)
 WIP
