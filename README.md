@@ -33,6 +33,7 @@ The following project focused on explanatory data visualisation. The dataset use
 In this project, I worked with exit surveys from employees of the [Department of Education, Training and Employment (DETE)](https://en.wikipedia.org/wiki/Department_of_Education_(Queensland)) and the Technical and Further Education (TAFE) institute in Queensland, Australia. The dataset used is the [DETE exit survey data](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey). I played the role of a data analyst and pretended our stakeholders wanted to know the following:
 - Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 - Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
 Key skills used in this project include:
 - Vectorised string methods to clean string columns.
 - The apply(), map(), and applymap() methods to transform data.
@@ -51,6 +52,7 @@ For this project, I worked with data from the [CIA World Factbook](https://www.c
 In this project, I analysed recent movie ratings data to determine whether there has been any change in Fandango's rating system after Walt Hickey's 2015 analysis. The two datasets that I used for this investigation are as follows:
 - [Walt Hickey's dataset](https://github.com/fivethirtyeight/data/tree/master/fandango) for ratings up to 2015.
 - [Dataquest's dataset](https://github.com/mircealex/Movie_ratings_2016_17) for ratings in 2016 and 2017.
+
 This project demonstrates the use of statistical analysis in Python, with a focus on sampling, variables, scales of measurement, and frequency distributions.
 
 ![Coded graph for Project 9](/Rashad_Portfolio/docs/assets/project9_graph.png)
@@ -68,6 +70,7 @@ A medical institute that aims to prevent and treat gambling addictions wants to 
 - What is the probability of winning the big prize with a single ticket?
 - What is the probability of winning the big prize if we play 40 different tickets (or any other number)?
 - What is the probability of having at least five (or four, or three, or two) winning numbers on a single ticket?
+
 The institute also wants us to consider historical data coming from the national 6/49 lottery game in Canada. The [dataset](https://www.kaggle.com/datascienceai/lottery-dataset) has data for 3,665 drawings, dating from 1982 to 2018. Key skills demonstrated in this project include:
 - How to calculate theoretical and empirical probabilities.
 - How to use probability rules to solve probability problems.
