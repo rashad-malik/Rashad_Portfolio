@@ -4,6 +4,7 @@ Dataquest's guided projects are an interactive component of their online learnin
 ### [Project 1 - Prison Break](https://github.com/rashad-malik/Dataquest-Projects/blob/main/Project%201%3A%20Prison%20Break/Project_1.ipynb)
 The focus of this project is on prison breaks, and I attempted to answer the following questions:
 > In which year did the most helicopter prison break attempts occur?
+
 > In which countries do the most attempted helicopter prison breaks occur?
 
 The dataset I will be using is a [list of helicoper prison escapes from Wikipedia](https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes#Actual_attempts). Skills applied in this project:
@@ -13,6 +14,7 @@ The dataset I will be using is a [list of helicoper prison escapes from Wikipedi
 - Analyse the data using Python.
 
 ![Coded graph for Project 1](/Rashad_Portfolio/docs/assets/project1_graph.png)
+<img src="/Rashad_Portfolio/docs/assets/project1_graph.png" width="400" height="400">
 ![Coded table for Project 1](/Rashad_Portfolio/docs/assets/project1_table.png)
 
 ### [Project 2 - Profitable App Profiles for the App Store and Google Play Markets](https://github.com/rashad-malik/Dataquest-Projects/tree/main/Project%202:%20Profitable%20App%20Profiles)
