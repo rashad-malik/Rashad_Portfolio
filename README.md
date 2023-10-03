@@ -39,7 +39,7 @@ The following project focused on explanatory data visualisation. The dataset use
 - How to guide the audience's attention with pre-attentive attributes.
 - How to use Matplotlib built-in styles — with a case study on the FiveThirtyEight style.
 
-![Coded graph for Project 6](/Rashad_Portfolio/docs/assets/project6_graph.png)
+<img src="/Rashad_Portfolio/docs/assets/project6_graph.png" width="500" height="317">
 
 ### [Project 7 -  Clean and Analyse Employee Exit Surveys](https://github.com/rashad-malik/Dataquest-Projects/blob/main/Project%207%3A%20Clean%20and%20Analyse%20Employee%20Exit%20Surveys/Project_7.ipynb)
 In this project, I worked with exit surveys from employees of the [Department of Education, Training and Employment (DETE)](https://en.wikipedia.org/wiki/Department_of_Education_(Queensland)) and the Technical and Further Education (TAFE) institute in Queensland, Australia. The dataset used is the [DETE exit survey data](https://data.gov.au/dataset/ds-qld-fe96ff30-d157-4a81-851d-215f2a0fe26d/details?q=exit%20survey). I played the role of a data analyst and pretended our stakeholders wanted to know the following:
