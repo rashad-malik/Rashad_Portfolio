@@ -1,8 +1,10 @@
 # List of projects
-To view the corresponding Jupyter notebook file, click on the hyperlink on the project title.
+To view the corresponding Jupyter notebook file, *click on the hyperlink* in the project title.
+
+---
 
 ## Dataquest guided projects
-Dataquest's guided projects are an interactive component of their online learning platform. These projects offer a hands-on, real-world experience that complements the theoretical knowledge gained on the course. This involves work with real datasets, writing code, and solving data-related problems. **Click the headings to view the Jupyter notebook file**.
+Dataquest's guided projects are an interactive component of their online learning platform. These projects offer a hands-on, real-world experience that complements the theoretical knowledge gained on the course. This involves work with real datasets, writing code, and solving data-related problems.
 
 ### [Project 1 - Prison Break](https://github.com/rashad-malik/Dataquest-Projects/blob/main/Project%201%3A%20Prison%20Break/Project_1.ipynb)
 The focus of this project is on prison breaks, and I attempted to answer the following questions:
