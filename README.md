@@ -16,8 +16,17 @@ The dataset I will be using is a [list of helicoper prison escapes from Wikipedi
 <img src="/Rashad_Portfolio/docs/assets/project1_graph.png" width="400" height="563">
 <img src="/Rashad_Portfolio/docs/assets/project1_table.png" width="300" height="470">
 
-### [Project 2 - Profitable App Profiles for the App Store and Google Play Markets](https://github.com/rashad-malik/Dataquest-Projects/tree/main/Project%202:%20Profitable%20App%20Profiles)
-WIP
+### [Project 2 - Profitable App Profiles for the App Store and Google Play Markets](https://github.com/rashad-malik/Dataquest-Projects/tree/main/Project%202:%20Profitable%20App%20Profiles/Project_2.ipynb)
+For this project, I'll pretend that I'm working as a data analyst for a company that builds Android and iOS mobile apps. The company makes the apps available on Google Play and in the App Store. My goal for this project is to analyse data to help our developers understand what type of apps are likely to attract more users. The two datasets that I will focus on in this project are the following:
+> A [dataset](https://www.kaggle.com/lava18/google-play-store-apps) containing data about approximately 10,000 Android apps from Google Play; the data was collected in August 2018.
+
+> A [dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) containing data about approximately 7,000 iOS apps from the App Store; the data was collected in July 2017.
+Key skills demonstrated in this project include:
+- Generating dictionaries and frequency tables.
+- Using built-in functions, and multiple return statements.
+- Data cleansing via identifying incorrect elements, removing duplicates, and scanning for non-English elements.
+- Criteria-based data isolation.
+
 
 ### [Project 3 - Exploring Hacker News Posts](https://github.com/rashad-malik/Dataquest-Projects/blob/main/Project%203%3A%20Exploring%20Hacker%20News%20Posts/Project_3.ipynb)
 In this project, I worked with a dataset of submissions to popular technology site [Hacker News](https://news.ycombinator.com/). This project brought the following skills together for some real-world practice:
