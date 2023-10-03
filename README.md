@@ -1,3 +1,6 @@
+# List of projects
+To view the corresponding Jupyter notebook file, click on the hyperlink on the project title.
+
 ## Dataquest guided projects
 Dataquest's guided projects are an interactive component of their online learning platform. These projects offer a hands-on, real-world experience that complements the theoretical knowledge gained on the course. This involves work with real datasets, writing code, and solving data-related problems. **Click the headings to view the Jupyter notebook file**.
 
@@ -21,6 +24,7 @@ For this project, I'll pretend that I'm working as a data analyst for a company 
 > A [dataset](https://www.kaggle.com/lava18/google-play-store-apps) containing data about approximately 10,000 Android apps from Google Play; the data was collected in August 2018.
 
 > A [dataset](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) containing data about approximately 7,000 iOS apps from the App Store; the data was collected in July 2017.
+
 Key skills demonstrated in this project include:
 - Generating dictionaries and frequency tables.
 - Using built-in functions, and multiple return statements.
