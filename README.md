@@ -13,9 +13,8 @@ The dataset I will be using is a [list of helicoper prison escapes from Wikipedi
 - Obtain real data from the internet and prepare it for analysis.
 - Analyse the data using Python.
 
-![Coded graph for Project 1](/Rashad_Portfolio/docs/assets/project1_graph.png)
-<img src="/Rashad_Portfolio/docs/assets/project1_graph.png" width="400" height="400">
-![Coded table for Project 1](/Rashad_Portfolio/docs/assets/project1_table.png)
+<img src="/Rashad_Portfolio/docs/assets/project1_graph.png" width="400" height="563">
+<img src="/Rashad_Portfolio/docs/assets/project1_table.png" width="400" height="627">
 
 ### [Project 2 - Profitable App Profiles for the App Store and Google Play Markets](https://github.com/rashad-malik/Dataquest-Projects/tree/main/Project%202:%20Profitable%20App%20Profiles)
 WIP
